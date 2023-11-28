@@ -25,8 +25,10 @@ By examining who they follow and their interconnectedness, we sought to unravel 
 
 &nbsp;
 
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1MnSAyLqh3CCo5zOJURca9MUjmPiqELN9" alt="(1) Fake News and (2) Reliable Websites" title="(1) Fake News and (2) Reliable Websites"/>
+<p align="center"> 
+<b>Figure 1: (1) Fake News and (2) Reliable Websites</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1MnSAyLqh3CCo5zOJURca9MUjmPiqELN9" alt="(1) Fake News and (2) Reliable Websites"/>
 <p/>
 
 &nbsp;
