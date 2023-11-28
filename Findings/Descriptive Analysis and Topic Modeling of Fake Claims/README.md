@@ -6,14 +6,14 @@ By harnessing the rich data from various fact-checking organizations, we establi
 As illustrated below, the dataset of fact-checked claims is skewed towards false claims (59,712), followed by misleading (16,891) and true claims (6,826). 
 This distribution is not surprising given that we expect fact-checking organizations whose data we are utilizing to be focused on identifying and highlighting false information. 
 Oftentimes, they approach their work with the aim of debunking misleading or false claims rather than “confirming” true claims that seem unlikely to be true. 
-For our later purposes of identifying fake claims amongst social media posts, this imbalance is not problematic since we compute the semantic similarity and mention of fake-claim-prone domains rather than prompting a trained model to identify if a claim is true or false (like past work by DeVerna et al., 2023).
+For our later purposes of identifying fake claims amongst social media posts, this imbalance is not problematic since we compute the semantic similarity and mention of fake-claim-prone domains rather than prompting a trained model to identify if a claim is true or false (like past work by [DeVerna et al., 2023](https://arxiv.org/abs/2308.10800)).
 We also observe an increase in the number of recorded claim-verdict pairs over time in recent years. 
 Our dataset peaks with 3,571 ground-truth false claims recorded alone in Q3 of 2023. 
 While we observe an overall increase for all types of claims (that is, true, false, and misleading), the effect is particularly pertinent to observed false claims. 
 Another key dimension of our fake claims dataset and thus the main basis of our future studies, are the sources of the fact checks. 
 As discussed above, we ensure the credibility of our data by checking the certification of fact-checking organizations with the International Fact-Checking Network. 
 Thereby, we seek to reduce potential biases and increase the reliability of our dataset. 
-The importance of this validation step became particularly apparent to us through the incident of a Mexican fact-checking organization which emerged on the fact-checking landscape a few years ago and was accused of being biased in its assessments partly due to its ownership by no other than the Mexican president López Obrador (Poynter, 2019). 
+The importance of this validation step became particularly apparent to us through the incident of a Mexican fact-checking organization which emerged on the fact-checking landscape a few years ago and was accused of being biased in its assessments partly due to its ownership by no other than the Mexican president López Obrador ([Poynter, 2019](https://www.poynter.org/ifcn/2019/lopez-obrador-launches-its-own-verificado-and-infuriates-fact-checkers-in-mexico/)). 
 
 &nbsp;
 
