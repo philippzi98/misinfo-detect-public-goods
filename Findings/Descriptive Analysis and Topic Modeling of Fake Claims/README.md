@@ -18,13 +18,17 @@ The importance of this validation step became particularly apparent to us throug
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1vEgYWywR69m3ZBiWiZ1FaVAHiitNygxg" alt="Distribution of Verdict Labels (over Time)" title="Distribution of Verdict Labels (over Time)"/>
+<b>Figure 1: Distribution of Verdict Labels (over Time)</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1vEgYWywR69m3ZBiWiZ1FaVAHiitNygxg" alt="Distribution of Verdict Labels (over Time)"/>
 <p/>
 
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1VX4n2t3efNtytQmIj5cgWp9mx3etbUBR" alt="Distribution of Verdict Labels across Fact-Checking Organizations (over Time)" title="Distribution of Verdict Labels across Fact-Checking Organizations (over Time)"/>
+<b>Figure 2: Distribution of Verdict Labels across Fact-Checking Organizations (over Time)</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1VX4n2t3efNtytQmIj5cgWp9mx3etbUBR" alt="Distribution of Verdict Labels across Fact-Checking Organizations (over Time)"/>
 <p/>
 
 &nbsp;
@@ -43,7 +47,9 @@ From our observations working with the data, we attribute this to many claims em
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1QPFufcmK9SHN3iC-sUK44l9ioKiDDpob" alt="Word Clouds of (1) All Claims and (2) Claims by Scraped Nigerian Fact-Checkers" title="Word Clouds of (1) All Claims and (2) Claims by Scraped Nigerian Fact-Checkers"/>
+<b>Figure 3: Word Clouds of (1) All Claims and (2) Claims by Scraped Nigerian Fact-Checkers</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1QPFufcmK9SHN3iC-sUK44l9ioKiDDpob" alt="Word Clouds of (1) All Claims and (2) Claims by Scraped Nigerian Fact-Checkers"/>
 <p/>
 
 &nbsp;
@@ -85,7 +91,9 @@ This allows us to understand both the overarching themes at play in our broader 
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1YyD7DuuzhRRLr6lRu0nbrhLrkzybABg3" alt="Topic Distribution across All Claims" title="Topic Distribution across All Claims"/>
+<b>Figure 4: Topic Distribution across All Claims</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1YyD7DuuzhRRLr6lRu0nbrhLrkzybABg3" alt="Topic Distribution across All Claims"/>
 <p/>
 
 &nbsp;
@@ -103,7 +111,9 @@ Ultimately, we can thereby also identify how the public dialogue changes and how
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1nYdVLFeY2oi6tkdZ6U5OjyQ0v8IpmziD" alt="Topic Distribution across Nigerian Claims" title="Topic Distribution across Nigerian Claims"/>
+<b>Figure 5: Topic Distribution across Nigerian Claims</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1nYdVLFeY2oi6tkdZ6U5OjyQ0v8IpmziD" alt="Topic Distribution across Nigerian Claims"/>
 <p/>
 
 &nbsp;
@@ -117,7 +127,9 @@ The current labeled data set of claims as well as a file with aggregate statisti
 &nbsp;
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1l-wKgRRFIEcT53e4pLDnHVLCw_NKUi-O" alt="Verdict distribution across Topics" title="Verdict distribution across Topics"/>
+<b>Figure 6: Verdict distribution across Topics</b>
+<br>
+<br><img src="https://drive.google.com/uc?export=view&id=1l-wKgRRFIEcT53e4pLDnHVLCw_NKUi-O" alt="Verdict distribution across Topics"/>
 <p/>
 
 &nbsp;
