@@ -33,6 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 &nbsp;
 
 ## Authors & Contact
-The work shared here is the product of a larger team with many valued contributors: Victor Orozco, Samuel Fraiberger, Daniel Barkoczi, Eaman Jahani, Blas Kolic, Karim Lasri, Hause Lin, Niyati Malhotra, Manuel Tonneau, Nina Wang, and Philipp Zimmer. In case of any questions or remarks, please feel free to reach out to us via [e-mail](mailto:sfraiberger@worldbank.org).
+The work shared here is the product of a larger team with many valued contributors: Victor Orozco, Samuel Fraiberger, Daniel Barkoczi, Ibrahim Farouq, Eaman Jahani, Blas Kolic, Karim Lasri, Hause Lin, Niyati Malhotra, Manuel Tonneau, Nina Wang, and Philipp Zimmer. In case of any questions or remarks, please feel free to reach out to us via [e-mail](mailto:sfraiberger@worldbank.org).
 
 
